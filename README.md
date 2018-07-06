@@ -1,7 +1,7 @@
 # CalculateSumOfPowersMPI
 
 ## General Info
-Program calculates sum of all numbers raised to the second power from given file. Numbers are divided into parts, where each processor has it's own part to calculate.
+Program calculates paralelly sum of all numbers raised to the second power from given file. Numbers are divided into parts, where each processor has it's own part to calculate.
 
 It uses MPI Library.
 
